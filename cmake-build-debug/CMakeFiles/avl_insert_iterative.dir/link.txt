@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\avl_insert_iterative.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\avl_insert_iterative.dir/objects.a @CMakeFiles\avl_insert_iterative.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\avl_insert_iterative.dir/objects.a -Wl,--no-whole-archive -o avl_insert_iterative.exe -Wl,--out-implib,libavl_insert_iterative.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\avl_insert_iterative.dir\linklibs.rsp
